@@ -92,7 +92,7 @@ class Main extends React.Component {
           <h2 className="major">Contact</h2>
           <section style={{ width: "100%", textAlign: "center" }}>
             <img src="https://i.postimg.cc/L4wq5ptV/Type.gif" alt='' style={{ borderRadius: "50%", width: "150px" }} />
-            <p>I'm currently open to new opportuntiies and look forward to receiving your email.</p>
+            <p>I'm currently open to new opportunties and look forward to receiving your email.</p>
             <a style={{ border: "none" }} href="mailto:lascaze.j@gmail.com"><Button>Email</Button></a>
             <ul className="icons" style={{ marginTop: "2rem" }}>
               <li><a href="http://www.github.com/Jlasc" target='_blank' rel="noopener noreferrer" className=" icon fa-github"><span className="label">GitHub</span></a></li>
